@@ -1,0 +1,7 @@
+﻿Compilación iniciada a las 09:14 p. m....
+Esperando a que se completen las operaciones en segundo plano...
+1>------ Operación Compilar iniciada: Proyecto: examen 1 prg2 hospital san rafa, configuración: Debug Any CPU ------
+1>  Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>  examen 1 prg2 hospital san rafa -> C:\Users\jairo\source\repos\examen 1 prg2 hospital san rafa\examen 1 prg2 hospital san rafa\bin\Debug\net10.0\examen 1 prg2 hospital san rafa.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 09:15 p. m. y tardó 36.415 segundos ==========
